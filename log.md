@@ -90,3 +90,7 @@ author: "Alex SALMON, Bastien TROUBAT, ..."
 
 - [20]Check form input (incorrect values, missing, etc..): NO
     -can put numbers in NAME
+    
+- [21]Check SQL Injection: not possible
+
+- [22]Postman endpoint check (incorrect form values): not possible
