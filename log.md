@@ -1,7 +1,7 @@
 ---
 title: "Software Testing: Project Log"
 date: "Dec 6th, 2022"
-author: "Alex SALMON, ..."
+author: "Alex SALMON, Bastien TROUBAT, ..."
 ---
 
 # Sequence 1
@@ -86,4 +86,7 @@ author: "Alex SALMON, ..."
 
 - [18] Deleted employee is removed from team: YES
 
-- [19] 
+- [19] Can't put empty info in "Edit Employee Basic Information": YES
+
+- [20]Check form input (incorrect values, missing, etc..): NO
+    -can put numbers in NAME
