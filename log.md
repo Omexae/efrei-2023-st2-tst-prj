@@ -56,7 +56,7 @@ author: "Alex SALMON, Bastien TROUBAT, ..."
 | 14  | :x:                | 06/12/22 | Delete non empty team                 | SERVER ERROR, no UI                                                     |
 | 15  | :heavy_check_mark: | 06/12/22 | Employee counter incrementation       |                                                                         |
 | 16  | :heavy_check_mark: | 06/12/22 | Employee counter decrementation       |                                                                         |
-| 17  | :x:                | 06/12/22 | Add Employee to two teams             |                                                                         |
+| 17  | :warning:                | 06/12/22 | Add Employee to two teams             |                                                                         |
 |     | :heavy_check_mark: | 06/12/22 | Deleted employee is removed from team |                                                                         |
 
 
