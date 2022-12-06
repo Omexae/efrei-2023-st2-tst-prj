@@ -43,7 +43,7 @@ author: "Alex SALMON, Bastien TROUBAT, ..."
 | 1   | :heavy_check_mark: | 06/12/22 | Add employee                          |                                                                         |
 | 2   | :heavy_check_mark: | 06/12/22 | Update Basic info                     |                                                                         |
 | 3   | :x:                | 06/12/22 | Update Address Info                   | Address Line 2 not updated when other field is updated at the same time |
-| 4   | :warning:          | 06/12/22 | Update Contract Info                  |                                                                         |
+| 4   | :warning:          | 06/12/22 | Update Contract Info                  |  Contract date cannot be modified #2                                                                    |
 | 5   | :heavy_check_mark: | 06/12/22 | Promote as manager                    |                                                                         |
 | 6   | :heavy_check_mark: | 06/12/22 | Remove employee                       |                                                                         |
 | 7   | :warning:          | 06/12/22 | Add Two employee with same info       | Works when two employees have the same email                            |
