@@ -86,6 +86,6 @@ author: "Alex SALMON, Bastien TROUBAT, Antoine RECIO ANDRADES, Chloé STEPHAN"
 | 17  | :warning:          | 06/12/22 | Add Employee to two teams                         |                                                                         |
 | 18  | :heavy_check_mark: | 06/12/22 | Deleted employee is removed from team             |                                                                         |
 | 19  | :heavy_check_mark: | 06/12/22 | No empty info in "Edit Employee Basic Information |                                                                         |
-| 20  | :x:                | 06/12/22 | Check form input                                  | Can put numbers in NAME                                                 |
+| 20  | :x:                | 06/12/22 | Check form input                                  | Can put numbers in NAME, can put invalid ZIP code                       |
 | 21  | :heavy_check_mark: | 06/12/22 | No SQL Injections                                 |                                                                         |
 | 22  | :heavy_check_mark: | 06/12/22 | Postman endpoint check                            | Serve checks present for employee form                                  |
