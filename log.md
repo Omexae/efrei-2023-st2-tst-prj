@@ -1,7 +1,7 @@
 ---
-title: "Software Testing: Project Log"
+title: "Software Testing: Project Log Y team"
 date: "Dec 6th, 2022"
-author: "Alex SALMON, Bastien TROUBAT, ..."
+author: "Alex SALMON, Bastien TROUBAT, Antoine RECIO ANDRADES, Chloé STEPHAN"
 ---
 
 # Sequence 1
