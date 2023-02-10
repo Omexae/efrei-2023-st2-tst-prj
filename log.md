@@ -63,6 +63,12 @@ author: "Alex SALMON, Bastien TROUBAT, Antoine RECIO ANDRADES, Chloé STEPHAN"
 | 21  | :heavy_check_mark: | 06/12/22 | No SQL Injections                                 |                                                                         |
 | 22  | :heavy_check_mark: | 06/12/22 | Postman endpoint check                            | Serve checks present for employee form                                  |
 
+## Remarks
+
+This first sequence was the moment where we learned how to use "issues" tab in github. Trying to find bugs in the website with the blackbox way was also interesting because it is not something we ara accustomed to. 
+
+# Sequence 2
+
 ## Running test 2
 
 | id  | status             | date     | title                                             | comment                                                                 |
@@ -90,9 +96,19 @@ author: "Alex SALMON, Bastien TROUBAT, Antoine RECIO ANDRADES, Chloé STEPHAN"
 | 21  | :heavy_check_mark: | 06/12/22 | No SQL Injections                                 |                                                                         |
 | 22  | :heavy_check_mark: | 06/12/22 | Postman endpoint check                            | Serve checks present for employee form                                  |
 
+## Remarks
+
+There is not much to say about this sequence considering it is very similar to the previous one. Although, we did get a sense of boredom going through our test plan again manually, showing tedious this work can be if not structured correctly.
+
+# Sequence 3
+
 ## Running test 3
 
 Open a terminal in the Playwright folder then type 
 ```
 pytest tester.py
 ```
+
+## Remarks
+
+Clearly the sequence that asked the most effort from us. Learning to use the playwright library was already complex, but adapting it to our test plan was another hurdle. But we got through (at least partially, considering we were able to only implement three tests due to time), and making sure our test sequence was automatic. We also spent lot of time on making sure our code is clean enough to be readable. We think that if necessary, we would be able to complete our test sequence, with enough time.
